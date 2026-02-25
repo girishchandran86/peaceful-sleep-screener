@@ -20,11 +20,3 @@ Designed for long-term investors who want to sleep peacefully while holding qual
 - **Excel Export**: Download your filtered stocks for further analysis.  
 
 ---
-
-## 💻 Installation
-
-Clone the repository:
-
-```bash
-git clone git@github.com:girishchandran86/peaceful-sleep-screener.git
-cd peaceful-sleep-screener
