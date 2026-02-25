@@ -17,7 +17,6 @@ Designed for long-term investors who want to sleep peacefully while holding qual
   - Minimum Free Cash Flow ($M)  
 - **Quality Score**: Ranks stocks based on a combination of Beta, Debt/Equity, ROE, Dividend, and Free Cash Flow.  
 - **Results Table**: Interactive table with sorted Quality Scores.  
-- **Excel Export**: Download your filtered stocks for further analysis.  
 
 ---
 https://peaceful-sleep-screener.streamlit.app/
